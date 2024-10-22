@@ -5,15 +5,21 @@
 
   ## Descrierea cerintelor:
   -Această temă modelează o stație de încărcare pentru vehicule electrice, folosind un circuit compus din LED-uri și butoane.
-  -Sistemul include un LED RGB care indică starea stației:
-Verde indică că stația este liberă și poate fi utilizată.
-Roșu semnalizează că procesul de încărcare este în desfășurare.
-Progresul încărcării bateriei este vizualizat prin intermediul a 4 LED-uri:LED-ul 1 indică 25% încărcare,LED-ul 2 semnalizează 50%, LED-ul 3 corespunde la 75%, LED-ul 4 arată când bateria a atins 100%.
-Procesul de încărcare începe la apăsarea butonului START (apăsările suplimentare ale butonului în timpul încărcării sunt ignorate).
-  -Fiecare LED, pe rând, clipește de două ori și se aprinde a treia oară, în timp ce următorul LED începe să clipească. Acest tipar continuă până când ultimul LED clipeste de două ori și apoi se stinge complet.
-  -Durata de clipire pentru fiecare LED este de 3 secunde.
-  -La finalul procesului de încărcare, toate cele 4 LED-uri se aprind intermitent de 3 ori simultan, iar LED-ul RGB revine la culoarea verde.
-  -O apăsare lungă, de cel puțin o secundă, pe butonul STOP, va întrerupe încărcarea și va declanșa animația de final, cu toate LED-urile clipind de 3 ori în același timp.
+  1. **Disponibilitate stație**: LED-ul RGB indică starea:
+   - Verde: stația este liberă.
+   - Roșu: stația este ocupată.
+
+2. **Încărcare baterie (2p)**:
+   - Progresul de încărcare este afișat cu 4 LED-uri (L1-L4) corespunzătoare la 25%, 50%, 75% și 100%.
+   - Încărcarea se face progresiv, cu LED-ul curent clipind timp de 3s, cele anterioare rămânând aprinse.
+
+3. **Pornire (1p)**:
+   - Apăsarea scurtă a butonului **START** inițiază încărcarea.
+   - Butonul nu are efect dacă încărcarea este deja în curs.
+
+4. **Oprire forțată (2p)**:
+   - Apăsarea lungă a butonului **STOP** (minim 1s) întrerupe încărcarea, declanșând clipirea simultană de 3 ori a tuturor LED-urilor.
+   - LED-ul RGB revine la verde.
 ##
 </details>
 
