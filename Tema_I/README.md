@@ -9,15 +9,15 @@
    - Verde: stația este liberă.
    - Roșu: stația este ocupată.
 
-2. **Încărcare baterie (2p)**:
+2. **Încărcare baterie**:
    - Progresul de încărcare este afișat cu 4 LED-uri (L1-L4) corespunzătoare la 25%, 50%, 75% și 100%.
    - Încărcarea se face progresiv, cu LED-ul curent clipind timp de 3s, cele anterioare rămânând aprinse.
 
-3. **Pornire (1p)**:
+3. **Pornire**:
    - Apăsarea scurtă a butonului **START** inițiază încărcarea.
    - Butonul nu are efect dacă încărcarea este deja în curs.
 
-4. **Oprire forțată (2p)**:
+4. **Oprire forțată**:
    - Apăsarea lungă a butonului **STOP** (minim 1s) întrerupe încărcarea, declanșând clipirea simultană de 3 ori a tuturor LED-urilor.
    - LED-ul RGB revine la verde.
 ##
