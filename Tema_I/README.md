@@ -5,7 +5,7 @@
 
   ## Descrierea cerintelor:
   -Această temă modelează o stație de încărcare pentru vehicule electrice, folosind un circuit compus din LED-uri și butoane.
-  1. **Disponibilitate stație**: LED-ul RGB indică starea:
+1. **Disponibilitate stație**: LED-ul RGB indică starea:
    - Verde: stația este liberă.
    - Roșu: stația este ocupată.
 
