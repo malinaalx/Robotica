@@ -56,3 +56,11 @@
  ##
 </details>
 
+<details>
+<summary> <b> Video-Schema electrica realizata fizic </b> </summary>
+  
+ ## Schema electrica realizata fizic
+ https://youtube.com/shorts/BbaTPrR9dVw?si=UPEDdS2uEo-QdjsR
+ ##
+
+
