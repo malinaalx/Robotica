@@ -45,6 +45,9 @@
   ##
 </details>
 
+<details>
+<summary> <b> Schema electrica realizata fizic </b> </summary>
+  
  ## Schema electrica realizata fizic
 ![WhatsApp Image 2024-10-23 at 14 31 53](https://github.com/user-attachments/assets/26ceb3f3-fa10-4450-bf57-685abc3c1560)
 ![WhatsApp Image 2024-10-23 at 14 31 52 (1)](https://github.com/user-attachments/assets/da27fd95-cee9-452d-906f-9b49724bd9a7)
