@@ -44,3 +44,12 @@
 ![Simulator_tema1](https://github.com/user-attachments/assets/3bd6630a-2f4b-42cc-b334-e78aaca43496)
   ##
 </details>
+
+ ## Schema electrica realizata fizic
+![WhatsApp Image 2024-10-23 at 14 31 53](https://github.com/user-attachments/assets/26ceb3f3-fa10-4450-bf57-685abc3c1560)
+![WhatsApp Image 2024-10-23 at 14 31 52 (1)](https://github.com/user-attachments/assets/da27fd95-cee9-452d-906f-9b49724bd9a7)
+![WhatsApp Image 2024-10-23 at 14 31 39](https://github.com/user-attachments/assets/471bc2d7-5675-40de-8ed8-c6bce5962752)
+![WhatsApp Image 2024-10-23 at 14 31 52](https://github.com/user-attachments/assets/c081af7f-e2e8-4076-95c3-8f704c62556f)
+ ##
+</details>
+
