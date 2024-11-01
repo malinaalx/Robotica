@@ -42,15 +42,13 @@
   -Breadbord
   
   -Fire de legătură
-  
-    ##
 </details>
 
 <details>
   <summary> <b> Schema electrica </b> </summary>
 
   ## Schema electrica a circuitului implementat pe WOWKI
-  Simulatorul implementat in WOWKI:
+
  ![Simulator_tema2](https://github.com/user-attachments/assets/247e52a6-e335-4d5a-8acd-8ade31bd964a)
 
   ##
