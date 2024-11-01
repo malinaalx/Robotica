@@ -9,7 +9,7 @@
    </details>
    
    <details>
-  <summary><b>Cerinte</b></summary>
+  <summary><b>Detalii tehnice</b></summary>
 
    ## 1. Detalii tehnice:
   -  Led-ul RGB reprezinta indicatorul de stare. In repaus led-ul va fi alb, iar la apasarea butonului de start va clipi timp de 3 secunde.
