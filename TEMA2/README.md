@@ -1,7 +1,8 @@
 <details>
   <summary> <b> Despre </b> </summary>
 
-  ##Descrierea temei:
+  ## Descrierea temei:
+  
   - Aceasta tema simuleaza un joc TypeRacer.
   - Jocul va implica utilizarea unor componente hardware de bază, cum ar fi un LED RGB pentru a indica starea jocului și butoane pentru a controla începutul și dificultatea jocului. De asemenea, vom implementa un algoritm simplu pentru generarea aleatoare a cuvintelor dintr-un dicționar predefinit, care va fi afișat utilizatorului pentru a fi tastat.
     
@@ -29,12 +30,19 @@
   <summary><b>Componente</b></summary>
   
   ## Componentele folosite:
+  
   -Arduino UNO (ATmega328P microcontroller)
+  
   -1x LED RGB (pentru a semnaliza dacă cuvântul corect e scris greșit sau nu)
+  
   -2x Butoane (pentru start/stop rundă și pentru selectarea dificultății)
+  
   -5x Rezistoare (3x 220/330 ohm, 2x 1000 ohm)
+  
   -Breadbord
+  
   -Fire de legătură
+  
     ##
 </details>
 
@@ -42,6 +50,7 @@
   <summary> <b> Schema electrica </b> </summary>
 
   ## Schema electrica a circuitului implementat pe WOWKI
+  Simulatorul implementat in WOWKI:
  ![Simulator_tema2](https://github.com/user-attachments/assets/247e52a6-e335-4d5a-8acd-8ade31bd964a)
 
   ##
