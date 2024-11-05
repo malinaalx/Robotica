@@ -58,6 +58,9 @@
   <summary> <b> Poze ale setup-ului fizic </b> </summary>
   
 ## Setup-ul fizic
+![WhatsApp Image 2024-11-05 at 22 55 10_c8d7a6d5](https://github.com/user-attachments/assets/63609a4e-634b-4bdb-a046-7d383cbbb67d)
+![WhatsApp Image 2024-11-05 at 22 55 10_418d0430](https://github.com/user-attachments/assets/fcf8964c-76bc-46ab-af27-88c4c002ec7a)
+![WhatsApp Image 2024-11-05 at 22 55 10_fdeadac5](https://github.com/user-attachments/assets/67f70a21-d4ec-4398-8506-afab8aafd065)
 
 
 ##
