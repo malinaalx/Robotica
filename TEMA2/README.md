@@ -67,5 +67,10 @@
 
 </details>
 
+<details>
+  <summary> <b> Functionalitatea montajului fizic </summary>
+    
+</details>
+
 
 
