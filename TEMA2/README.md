@@ -69,7 +69,7 @@
 
 <details>
   <summary> <b> Functionalitatea montajului fizic </summary>
-    
+    https://youtu.be/qgXuEfWsXPE?si=F6bcP7M3ovDF6b0f
 </details>
 
 
