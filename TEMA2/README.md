@@ -55,7 +55,7 @@
 </details>
 
 <details>
-  <summary> <b> Poze ale setu-ului fizic </b> </summary>
+  <summary> <b> Poze ale setup-ului fizic </b> </summary>
   
 ## Setup-ul fizic
 
