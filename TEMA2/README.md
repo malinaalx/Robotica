@@ -59,7 +59,7 @@
   
 ## Setup-ul fizic
 ![WhatsApp Image 2024-11-05 at 22 55 10_c8d7a6d5](https://github.com/user-attachments/assets/63609a4e-634b-4bdb-a046-7d383cbbb67d)
-
+![WhatsApp Image 2024-11-05 at 22 59 46_e1022ffd](https://github.com/user-attachments/assets/90ccf857-ab65-46f9-8a62-e72a235ada87)
 ![WhatsApp Image 2024-11-05 at 22 55 10_fdeadac5](https://github.com/user-attachments/assets/67f70a21-d4ec-4398-8506-afab8aafd065)
 
 
